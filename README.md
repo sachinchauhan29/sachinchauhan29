@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40px">, I'm Sachin Chauhan<img src="https://img.icons8.com/external-others-cattaleeya-thongsriphong/344/external-Boy-user-with-laptop-color-line-others-cattaleeya-thongsriphong.png"  width="60px" /></h1>
 
-<p align="center">
-<a align="center" href="https://github.com/sachinchauhan29/sachinchauhan29"><img src="https://avatars.githubusercontent.com/u/128038251" /></a>
-</p>
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
 <p align="center">Hello, my name is Sachin Chauhan, I am a Full Stack developer from Noida I am proficient in Java and React and I have a strong command of frameworks like Spring and Hibernate. Additionally, I have expertise in developing RESTful APIs and working with various databases.  During my studies, I had the opportunity to work on various projects that helped me develop hands-on experience in Java programming.  Thank you for considering my profile, and I look forward to hearing from you.</p>
