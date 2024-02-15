@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning *Full Stack Developement*
 
-- 💬 Ask me about *HTML, CSS, JavaScript, React, Java, Hibernate, Spring, Rest-API & DSA*
+- 💬 Ask me about *HTML, CSS, JavaScript, jQuery,𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽5*
 
 - 📫 How to reach me *sachincha2222@gmail.com*
 
