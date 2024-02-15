@@ -75,17 +75,22 @@ Here are some ideas to get you started:
 <span>MySql</span><br><br>
 <img height="70px" src="./images/sql.png">
 </td>
-</tr>
-<tr valign="top">
-<td width="75%" align="center">
+ <td width="75%" align="center">
 <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽5</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 </td>
 <td width="25%" align="center">
+<span>jQuery</span><br><br>
+<img height="70px" src="./images/jQuery.png">
+</td>
+</tr>
+<tr valign="top">
+
+<td width="50%" align="center">
 <span>𝗚𝗶𝘁</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 </td>
-<td width="25%" align="center">
+<td width="50%" align="center">
 <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
 </td>
