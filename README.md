@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40px">, I'm Sachin Chauhan<img src="https://img.icons8.com/external-others-cattaleeya-thongsriphong/344/external-Boy-user-with-laptop-color-line-others-cattaleeya-thongsriphong.png"  width="60px" /></h1>
 
 <p align="center">
-<a align="center" href="https://github.com/sachinchauhan29/sachinchauhan29"><img src="[https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile!;I'm+a+FullStack+Developer. ](https://avatars.githubusercontent.com/u/128038251)" /></a>
+<a align="center" href="https://github.com/sachinchauhan29/sachinchauhan29"><img src="https://avatars.githubusercontent.com/u/128038251" /></a>
 </p>
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
