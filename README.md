@@ -79,6 +79,10 @@ Here are some ideas to get you started:
 <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽5</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 </td>
+<td width="25%" align="center">
+<span>jQuery</span><br><br>
+<img height="70px" src="./images/jQuery.png">
+</td>
 </tr>
 <tr valign="top">
 
