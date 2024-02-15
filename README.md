@@ -96,9 +96,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachinchauhan29&count_private=true&theme=algolia" alt="sachin chauhan's GitHub stats" />
 </div>
-<div align="center">
+<div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchauhan29&langs_count=8&theme=algolia" alt="sachin chauhan GitHub stats" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinchauhan29" alt="sachin chauhan GitHub stats" />
 
