@@ -114,13 +114,13 @@ Here are some ideas to get you started:
 </table>
 <h3 align="center">GitHub Analytics: </h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0505Abhishek&count_private=true&theme=algolia" alt="Abhishek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinchauhan29&count_private=true&theme=algolia" alt="Abhishek's GitHub stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0505Abhishek&langs_count=8&theme=algolia" alt="Abhishek GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchauhan29&langs_count=8&theme=algolia" alt="Abhishek GitHub stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0505Abhishek" alt="Abhishek GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinchauhan29" alt="Abhishek GitHub stats" />
 
 </div>
 
