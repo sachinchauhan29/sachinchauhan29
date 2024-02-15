@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40px">, I'm Sachin Chauhan<img src="https://img.icons8.com/external-others-cattaleeya-thongsriphong/344/external-Boy-user-with-laptop-color-line-others-cattaleeya-thongsriphong.png"  width="60px" /></h1>
 
 <p align="center">
-<a align="center" href="https://github.com/0505Abhishek/0505Abhishek"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile!;I'm+a+FullStack+Developer. " /></a>
+<a align="center" href="https://github.com/sachinchauhan29/sachinchauhan29"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile!;I'm+a+FullStack+Developer. " /></a>
 </p>
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
@@ -96,9 +96,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachinchauhan29&count_private=true&theme=algolia" alt="sachin chauhan's GitHub stats" />
 </div>
-<div align="center">
+<div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchauhan29&langs_count=8&theme=algolia" alt="sachin chauhan GitHub stats" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinchauhan29" alt="sachin chauhan GitHub stats" />
 
