@@ -37,11 +37,6 @@ Here are some ideas to get you started:
     
 - ⚡ Fun fact *World is Ending soon, So better commit your code before you....*
 
--  Amusement-Park Management System **[Repo](https://github.com/khushboo787/actual-shoes-7533)**
-
--  Belk.com Clone **[Repo](https://github.com/dhyan0112/animated-governor-4742)**
--  Quick Store **[Repo](https://6548cfa162392e15659aba40--lovely-vacherin-163d50.netlify.app/)**
-
 <br/>
 
 <!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abajaj655" alt="abajaj655"/></a> </p> -->
